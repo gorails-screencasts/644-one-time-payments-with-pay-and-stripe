@@ -55,3 +55,6 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+gem "pay", "~> 7.0"
+gem "stripe", "~> 11.0"
